@@ -5,7 +5,7 @@ public class WhileEx2 {
         int num = 2;
         int count = 1;
         while(count <= 10){
-            System.out.println(num);
+            System.out.print(num + " ");
             num = num + 2;
             count++;
         }
